@@ -7,10 +7,10 @@
  ### total time to complete
  - took me around 3.5 hours to complete this page from scratch
 ### Main techniques learned during this project
--   background image position  
--   properly position background image
--   proper z index 
--   
+-   float property   
+-   flex properties
+-   basic conecpts of grid
+-   position,margin and padding properties
 
  ## live link
  [LIVE LINK]("netlify")
